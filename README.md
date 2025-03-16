@@ -1,4 +1,4 @@
-# python-mega-project-tts
+# python-text-to-speech
 Text to speech using speech recognition, musiclibrary, openai, GTTS, pygame
 
 
